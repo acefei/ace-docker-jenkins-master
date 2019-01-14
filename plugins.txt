@@ -73,10 +73,10 @@ plain-credentials:latest
 pubsub-light:latest
 scm-api:latest
 script-security:latest
-sse-gateway:latest
-ssh-agent:latest
-ssh-credentials:latest
-ssh-slaves:latest
+sse-gateway:1.15
+ssh-agent:1.15
+ssh-credentials:1.14
+ssh-slaves:1.26
 structs:latest
 subversion:latest
 timestamper:latest
