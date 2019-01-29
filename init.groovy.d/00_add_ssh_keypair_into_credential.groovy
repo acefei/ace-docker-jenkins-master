@@ -12,7 +12,7 @@ import com.cloudbees.plugins.credentials.impl.*
 // Read Jenkins Master SSH Key from Jenkins Master HOME
 def master_ssh_key
 try {
-    master_ssh_key = new File(System.getenv()['JENKINS_HOME']+'/.ssh/id_rsa').text
+    master_ssh_key = new File(System.getenv('JENKINS_HOME')+'/.ssh/id_rsa').text
 } catch(Exception e) {
     return
 }
