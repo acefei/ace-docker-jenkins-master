@@ -2,6 +2,7 @@ ace-editor:latest
 ant:latest
 antisamy-markup-formatter:latest
 authentication-tokens:latest
+artifactory:latest
 branch-api:latest
 build-timeout:latest
 cloudbees-folder:latest
