@@ -2,7 +2,7 @@ ace-editor:latest
 ant:latest
 antisamy-markup-formatter:latest
 authentication-tokens:latest
-branch-api:2.0.5
+branch-api:latest
 build-timeout:latest
 cloudbees-folder:latest
 credentials:latest
@@ -14,7 +14,7 @@ durable-task:latest
 email-ext:latest
 external-monitor-job:latest
 favorite:latest
-git-changelog:1.45
+git-changelog:latest
 git:latest
 git-client:latest
 git-server:latest
@@ -60,9 +60,9 @@ pipeline-build-step:latest
 pipeline-graph-analysis:latest
 pipeline-input-step:latest
 pipeline-milestone-step:latest
-pipeline-model-api:1.0.2
-pipeline-model-declarative-agent:1.0.2
-pipeline-model-definition:1.0.2
+pipeline-model-api:latest
+pipeline-model-declarative-agent:latest
+pipeline-model-definition:latest
 pipeline-githubnotify-step:latest
 pipeline-github-lib:latest
 pipeline-rest-api:latest
@@ -91,9 +91,9 @@ workflow-api:latest
 workflow-basic-steps:latest
 workflow-cps:latest
 workflow-cps-global-lib:latest
-workflow-durable-task-step:2.8
+workflow-durable-task-step:latest
 workflow-job:latest
-workflow-multibranch:2.12
+workflow-multibranch:latest
 workflow-scm-step:latest
 workflow-step-api:latest
 workflow-support:latest
